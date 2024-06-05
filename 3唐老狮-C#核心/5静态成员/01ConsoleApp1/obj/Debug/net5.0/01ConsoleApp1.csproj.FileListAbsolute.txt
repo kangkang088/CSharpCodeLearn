@@ -1,0 +1,15 @@
+D:\code\ownlearn\Unity\C#\3唐老狮-C#核心\5静态成员\01ConsoleApp1\bin\Debug\net5.0\01ConsoleApp1.exe
+D:\code\ownlearn\Unity\C#\3唐老狮-C#核心\5静态成员\01ConsoleApp1\bin\Debug\net5.0\01ConsoleApp1.deps.json
+D:\code\ownlearn\Unity\C#\3唐老狮-C#核心\5静态成员\01ConsoleApp1\bin\Debug\net5.0\01ConsoleApp1.runtimeconfig.json
+D:\code\ownlearn\Unity\C#\3唐老狮-C#核心\5静态成员\01ConsoleApp1\bin\Debug\net5.0\01ConsoleApp1.runtimeconfig.dev.json
+D:\code\ownlearn\Unity\C#\3唐老狮-C#核心\5静态成员\01ConsoleApp1\bin\Debug\net5.0\01ConsoleApp1.dll
+D:\code\ownlearn\Unity\C#\3唐老狮-C#核心\5静态成员\01ConsoleApp1\bin\Debug\net5.0\01ConsoleApp1.pdb
+D:\code\ownlearn\Unity\C#\3唐老狮-C#核心\5静态成员\01ConsoleApp1\obj\Debug\net5.0\01ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\ownlearn\Unity\C#\3唐老狮-C#核心\5静态成员\01ConsoleApp1\obj\Debug\net5.0\01ConsoleApp1.AssemblyInfoInputs.cache
+D:\code\ownlearn\Unity\C#\3唐老狮-C#核心\5静态成员\01ConsoleApp1\obj\Debug\net5.0\01ConsoleApp1.AssemblyInfo.cs
+D:\code\ownlearn\Unity\C#\3唐老狮-C#核心\5静态成员\01ConsoleApp1\obj\Debug\net5.0\01ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\code\ownlearn\Unity\C#\3唐老狮-C#核心\5静态成员\01ConsoleApp1\obj\Debug\net5.0\01ConsoleApp1.dll
+D:\code\ownlearn\Unity\C#\3唐老狮-C#核心\5静态成员\01ConsoleApp1\obj\Debug\net5.0\refint\01ConsoleApp1.dll
+D:\code\ownlearn\Unity\C#\3唐老狮-C#核心\5静态成员\01ConsoleApp1\obj\Debug\net5.0\01ConsoleApp1.pdb
+D:\code\ownlearn\Unity\C#\3唐老狮-C#核心\5静态成员\01ConsoleApp1\obj\Debug\net5.0\01ConsoleApp1.genruntimeconfig.cache
+D:\code\ownlearn\Unity\C#\3唐老狮-C#核心\5静态成员\01ConsoleApp1\obj\Debug\net5.0\ref\01ConsoleApp1.dll

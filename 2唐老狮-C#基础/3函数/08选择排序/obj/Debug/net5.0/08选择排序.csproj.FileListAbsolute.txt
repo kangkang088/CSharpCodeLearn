@@ -1,0 +1,15 @@
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\3函数\08选择排序\bin\Debug\net5.0\08选择排序.exe
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\3函数\08选择排序\bin\Debug\net5.0\08选择排序.deps.json
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\3函数\08选择排序\bin\Debug\net5.0\08选择排序.runtimeconfig.json
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\3函数\08选择排序\bin\Debug\net5.0\08选择排序.runtimeconfig.dev.json
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\3函数\08选择排序\bin\Debug\net5.0\08选择排序.dll
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\3函数\08选择排序\bin\Debug\net5.0\08选择排序.pdb
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\3函数\08选择排序\obj\Debug\net5.0\08选择排序.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\3函数\08选择排序\obj\Debug\net5.0\08选择排序.AssemblyInfoInputs.cache
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\3函数\08选择排序\obj\Debug\net5.0\08选择排序.AssemblyInfo.cs
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\3函数\08选择排序\obj\Debug\net5.0\08选择排序.csproj.CoreCompileInputs.cache
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\3函数\08选择排序\obj\Debug\net5.0\08选择排序.dll
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\3函数\08选择排序\obj\Debug\net5.0\refint\08选择排序.dll
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\3函数\08选择排序\obj\Debug\net5.0\08选择排序.pdb
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\3函数\08选择排序\obj\Debug\net5.0\08选择排序.genruntimeconfig.cache
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\3函数\08选择排序\obj\Debug\net5.0\ref\08选择排序.dll

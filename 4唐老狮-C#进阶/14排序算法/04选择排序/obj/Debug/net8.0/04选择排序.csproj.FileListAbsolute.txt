@@ -1,0 +1,14 @@
+D:\code\ownlearn\Unity\C#\4唐老狮-C#进阶\14排序算法\04选择排序\bin\Debug\net8.0\04选择排序.exe
+D:\code\ownlearn\Unity\C#\4唐老狮-C#进阶\14排序算法\04选择排序\bin\Debug\net8.0\04选择排序.deps.json
+D:\code\ownlearn\Unity\C#\4唐老狮-C#进阶\14排序算法\04选择排序\bin\Debug\net8.0\04选择排序.runtimeconfig.json
+D:\code\ownlearn\Unity\C#\4唐老狮-C#进阶\14排序算法\04选择排序\bin\Debug\net8.0\04选择排序.dll
+D:\code\ownlearn\Unity\C#\4唐老狮-C#进阶\14排序算法\04选择排序\bin\Debug\net8.0\04选择排序.pdb
+D:\code\ownlearn\Unity\C#\4唐老狮-C#进阶\14排序算法\04选择排序\obj\Debug\net8.0\04选择排序.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\ownlearn\Unity\C#\4唐老狮-C#进阶\14排序算法\04选择排序\obj\Debug\net8.0\04选择排序.AssemblyInfoInputs.cache
+D:\code\ownlearn\Unity\C#\4唐老狮-C#进阶\14排序算法\04选择排序\obj\Debug\net8.0\04选择排序.AssemblyInfo.cs
+D:\code\ownlearn\Unity\C#\4唐老狮-C#进阶\14排序算法\04选择排序\obj\Debug\net8.0\04选择排序.csproj.CoreCompileInputs.cache
+D:\code\ownlearn\Unity\C#\4唐老狮-C#进阶\14排序算法\04选择排序\obj\Debug\net8.0\04选择排序.dll
+D:\code\ownlearn\Unity\C#\4唐老狮-C#进阶\14排序算法\04选择排序\obj\Debug\net8.0\refint\04选择排序.dll
+D:\code\ownlearn\Unity\C#\4唐老狮-C#进阶\14排序算法\04选择排序\obj\Debug\net8.0\04选择排序.pdb
+D:\code\ownlearn\Unity\C#\4唐老狮-C#进阶\14排序算法\04选择排序\obj\Debug\net8.0\04选择排序.genruntimeconfig.cache
+D:\code\ownlearn\Unity\C#\4唐老狮-C#进阶\14排序算法\04选择排序\obj\Debug\net8.0\ref\04选择排序.dll

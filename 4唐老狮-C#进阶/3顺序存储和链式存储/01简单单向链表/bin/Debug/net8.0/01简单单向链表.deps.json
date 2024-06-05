@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "01简单单向链表/1.0.0": {
+        "runtime": {
+          "01简单单向链表.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "01简单单向链表/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

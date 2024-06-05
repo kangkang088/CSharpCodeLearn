@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# IDE0210: 转换为顶级语句
+dotnet_diagnostic.IDE0210.severity = none

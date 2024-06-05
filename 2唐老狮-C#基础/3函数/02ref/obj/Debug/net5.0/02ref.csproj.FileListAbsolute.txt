@@ -1,0 +1,15 @@
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\3函数\02ref\bin\Debug\net5.0\02ref.exe
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\3函数\02ref\bin\Debug\net5.0\02ref.deps.json
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\3函数\02ref\bin\Debug\net5.0\02ref.runtimeconfig.json
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\3函数\02ref\bin\Debug\net5.0\02ref.runtimeconfig.dev.json
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\3函数\02ref\bin\Debug\net5.0\02ref.dll
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\3函数\02ref\bin\Debug\net5.0\02ref.pdb
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\3函数\02ref\obj\Debug\net5.0\02ref.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\3函数\02ref\obj\Debug\net5.0\02ref.AssemblyInfoInputs.cache
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\3函数\02ref\obj\Debug\net5.0\02ref.AssemblyInfo.cs
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\3函数\02ref\obj\Debug\net5.0\02ref.csproj.CoreCompileInputs.cache
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\3函数\02ref\obj\Debug\net5.0\02ref.dll
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\3函数\02ref\obj\Debug\net5.0\refint\02ref.dll
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\3函数\02ref\obj\Debug\net5.0\02ref.pdb
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\3函数\02ref\obj\Debug\net5.0\02ref.genruntimeconfig.cache
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\3函数\02ref\obj\Debug\net5.0\ref\02ref.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "03装箱和拆箱-/1.0.0": {
+        "runtime": {
+          "03装箱和拆箱-.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "03装箱和拆箱-/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

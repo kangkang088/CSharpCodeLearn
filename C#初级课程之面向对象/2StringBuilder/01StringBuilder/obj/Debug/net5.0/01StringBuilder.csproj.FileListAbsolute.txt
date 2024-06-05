@@ -1,0 +1,15 @@
+D:\code\ownlearn\Unity\C#\C#初级课程之面向对象\2StringBuilder\01StringBuilder\bin\Debug\net5.0\01StringBuilder.exe
+D:\code\ownlearn\Unity\C#\C#初级课程之面向对象\2StringBuilder\01StringBuilder\bin\Debug\net5.0\01StringBuilder.deps.json
+D:\code\ownlearn\Unity\C#\C#初级课程之面向对象\2StringBuilder\01StringBuilder\bin\Debug\net5.0\01StringBuilder.runtimeconfig.json
+D:\code\ownlearn\Unity\C#\C#初级课程之面向对象\2StringBuilder\01StringBuilder\bin\Debug\net5.0\01StringBuilder.runtimeconfig.dev.json
+D:\code\ownlearn\Unity\C#\C#初级课程之面向对象\2StringBuilder\01StringBuilder\bin\Debug\net5.0\01StringBuilder.dll
+D:\code\ownlearn\Unity\C#\C#初级课程之面向对象\2StringBuilder\01StringBuilder\bin\Debug\net5.0\01StringBuilder.pdb
+D:\code\ownlearn\Unity\C#\C#初级课程之面向对象\2StringBuilder\01StringBuilder\obj\Debug\net5.0\01StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\ownlearn\Unity\C#\C#初级课程之面向对象\2StringBuilder\01StringBuilder\obj\Debug\net5.0\01StringBuilder.AssemblyInfoInputs.cache
+D:\code\ownlearn\Unity\C#\C#初级课程之面向对象\2StringBuilder\01StringBuilder\obj\Debug\net5.0\01StringBuilder.AssemblyInfo.cs
+D:\code\ownlearn\Unity\C#\C#初级课程之面向对象\2StringBuilder\01StringBuilder\obj\Debug\net5.0\01StringBuilder.csproj.CoreCompileInputs.cache
+D:\code\ownlearn\Unity\C#\C#初级课程之面向对象\2StringBuilder\01StringBuilder\obj\Debug\net5.0\01StringBuilder.dll
+D:\code\ownlearn\Unity\C#\C#初级课程之面向对象\2StringBuilder\01StringBuilder\obj\Debug\net5.0\refint\01StringBuilder.dll
+D:\code\ownlearn\Unity\C#\C#初级课程之面向对象\2StringBuilder\01StringBuilder\obj\Debug\net5.0\01StringBuilder.pdb
+D:\code\ownlearn\Unity\C#\C#初级课程之面向对象\2StringBuilder\01StringBuilder\obj\Debug\net5.0\01StringBuilder.genruntimeconfig.cache
+D:\code\ownlearn\Unity\C#\C#初级课程之面向对象\2StringBuilder\01StringBuilder\obj\Debug\net5.0\ref\01StringBuilder.dll

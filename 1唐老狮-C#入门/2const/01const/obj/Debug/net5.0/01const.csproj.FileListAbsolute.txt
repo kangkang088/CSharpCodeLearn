@@ -1,0 +1,16 @@
+D:\code\ownlearn\Unity\C#\唐老狮-C#入门\2const\01const\obj\Debug\net5.0\01const.csproj.AssemblyReference.cache
+D:\code\ownlearn\Unity\C#\唐老狮-C#入门\2const\01const\obj\Debug\net5.0\01const.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\ownlearn\Unity\C#\唐老狮-C#入门\2const\01const\obj\Debug\net5.0\01const.AssemblyInfoInputs.cache
+D:\code\ownlearn\Unity\C#\唐老狮-C#入门\2const\01const\obj\Debug\net5.0\01const.AssemblyInfo.cs
+D:\code\ownlearn\Unity\C#\唐老狮-C#入门\2const\01const\obj\Debug\net5.0\01const.csproj.CoreCompileInputs.cache
+D:\code\ownlearn\Unity\C#\唐老狮-C#入门\2const\01const\bin\Debug\net5.0\01const.exe
+D:\code\ownlearn\Unity\C#\唐老狮-C#入门\2const\01const\bin\Debug\net5.0\01const.deps.json
+D:\code\ownlearn\Unity\C#\唐老狮-C#入门\2const\01const\bin\Debug\net5.0\01const.runtimeconfig.json
+D:\code\ownlearn\Unity\C#\唐老狮-C#入门\2const\01const\bin\Debug\net5.0\01const.runtimeconfig.dev.json
+D:\code\ownlearn\Unity\C#\唐老狮-C#入门\2const\01const\bin\Debug\net5.0\01const.dll
+D:\code\ownlearn\Unity\C#\唐老狮-C#入门\2const\01const\bin\Debug\net5.0\ref\01const.dll
+D:\code\ownlearn\Unity\C#\唐老狮-C#入门\2const\01const\bin\Debug\net5.0\01const.pdb
+D:\code\ownlearn\Unity\C#\唐老狮-C#入门\2const\01const\obj\Debug\net5.0\01const.dll
+D:\code\ownlearn\Unity\C#\唐老狮-C#入门\2const\01const\obj\Debug\net5.0\ref\01const.dll
+D:\code\ownlearn\Unity\C#\唐老狮-C#入门\2const\01const\obj\Debug\net5.0\01const.pdb
+D:\code\ownlearn\Unity\C#\唐老狮-C#入门\2const\01const\obj\Debug\net5.0\01const.genruntimeconfig.cache

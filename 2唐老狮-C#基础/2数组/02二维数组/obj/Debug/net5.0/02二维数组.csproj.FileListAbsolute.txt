@@ -1,0 +1,15 @@
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\2数组\02二维数组\bin\Debug\net5.0\02二维数组.exe
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\2数组\02二维数组\bin\Debug\net5.0\02二维数组.deps.json
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\2数组\02二维数组\bin\Debug\net5.0\02二维数组.runtimeconfig.json
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\2数组\02二维数组\bin\Debug\net5.0\02二维数组.runtimeconfig.dev.json
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\2数组\02二维数组\bin\Debug\net5.0\02二维数组.dll
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\2数组\02二维数组\bin\Debug\net5.0\02二维数组.pdb
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\2数组\02二维数组\obj\Debug\net5.0\02二维数组.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\2数组\02二维数组\obj\Debug\net5.0\02二维数组.AssemblyInfoInputs.cache
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\2数组\02二维数组\obj\Debug\net5.0\02二维数组.AssemblyInfo.cs
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\2数组\02二维数组\obj\Debug\net5.0\02二维数组.csproj.CoreCompileInputs.cache
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\2数组\02二维数组\obj\Debug\net5.0\02二维数组.dll
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\2数组\02二维数组\obj\Debug\net5.0\refint\02二维数组.dll
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\2数组\02二维数组\obj\Debug\net5.0\02二维数组.pdb
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\2数组\02二维数组\obj\Debug\net5.0\02二维数组.genruntimeconfig.cache
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\2数组\02二维数组\obj\Debug\net5.0\ref\02二维数组.dll

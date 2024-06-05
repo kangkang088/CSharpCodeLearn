@@ -1,0 +1,14 @@
+D:\code\ownlearn\Unity\C#\3唐老狮-C#核心\13控制台项目\01贪吃蛇\bin\Debug\net8.0\01贪吃蛇.exe
+D:\code\ownlearn\Unity\C#\3唐老狮-C#核心\13控制台项目\01贪吃蛇\bin\Debug\net8.0\01贪吃蛇.deps.json
+D:\code\ownlearn\Unity\C#\3唐老狮-C#核心\13控制台项目\01贪吃蛇\bin\Debug\net8.0\01贪吃蛇.runtimeconfig.json
+D:\code\ownlearn\Unity\C#\3唐老狮-C#核心\13控制台项目\01贪吃蛇\bin\Debug\net8.0\01贪吃蛇.dll
+D:\code\ownlearn\Unity\C#\3唐老狮-C#核心\13控制台项目\01贪吃蛇\bin\Debug\net8.0\01贪吃蛇.pdb
+D:\code\ownlearn\Unity\C#\3唐老狮-C#核心\13控制台项目\01贪吃蛇\obj\Debug\net8.0\01贪吃蛇.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\ownlearn\Unity\C#\3唐老狮-C#核心\13控制台项目\01贪吃蛇\obj\Debug\net8.0\01贪吃蛇.AssemblyInfoInputs.cache
+D:\code\ownlearn\Unity\C#\3唐老狮-C#核心\13控制台项目\01贪吃蛇\obj\Debug\net8.0\01贪吃蛇.AssemblyInfo.cs
+D:\code\ownlearn\Unity\C#\3唐老狮-C#核心\13控制台项目\01贪吃蛇\obj\Debug\net8.0\01贪吃蛇.csproj.CoreCompileInputs.cache
+D:\code\ownlearn\Unity\C#\3唐老狮-C#核心\13控制台项目\01贪吃蛇\obj\Debug\net8.0\01贪吃蛇.dll
+D:\code\ownlearn\Unity\C#\3唐老狮-C#核心\13控制台项目\01贪吃蛇\obj\Debug\net8.0\refint\01贪吃蛇.dll
+D:\code\ownlearn\Unity\C#\3唐老狮-C#核心\13控制台项目\01贪吃蛇\obj\Debug\net8.0\01贪吃蛇.pdb
+D:\code\ownlearn\Unity\C#\3唐老狮-C#核心\13控制台项目\01贪吃蛇\obj\Debug\net8.0\01贪吃蛇.genruntimeconfig.cache
+D:\code\ownlearn\Unity\C#\3唐老狮-C#核心\13控制台项目\01贪吃蛇\obj\Debug\net8.0\ref\01贪吃蛇.dll

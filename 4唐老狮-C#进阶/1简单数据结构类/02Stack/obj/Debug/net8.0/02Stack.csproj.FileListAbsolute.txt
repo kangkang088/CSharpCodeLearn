@@ -1,0 +1,14 @@
+D:\code\ownlearn\Unity\C#\4唐老狮-C#进阶\1简单数据结构类\02Stack\bin\Debug\net8.0\02Stack.exe
+D:\code\ownlearn\Unity\C#\4唐老狮-C#进阶\1简单数据结构类\02Stack\bin\Debug\net8.0\02Stack.deps.json
+D:\code\ownlearn\Unity\C#\4唐老狮-C#进阶\1简单数据结构类\02Stack\bin\Debug\net8.0\02Stack.runtimeconfig.json
+D:\code\ownlearn\Unity\C#\4唐老狮-C#进阶\1简单数据结构类\02Stack\bin\Debug\net8.0\02Stack.dll
+D:\code\ownlearn\Unity\C#\4唐老狮-C#进阶\1简单数据结构类\02Stack\bin\Debug\net8.0\02Stack.pdb
+D:\code\ownlearn\Unity\C#\4唐老狮-C#进阶\1简单数据结构类\02Stack\obj\Debug\net8.0\02Stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\ownlearn\Unity\C#\4唐老狮-C#进阶\1简单数据结构类\02Stack\obj\Debug\net8.0\02Stack.AssemblyInfoInputs.cache
+D:\code\ownlearn\Unity\C#\4唐老狮-C#进阶\1简单数据结构类\02Stack\obj\Debug\net8.0\02Stack.AssemblyInfo.cs
+D:\code\ownlearn\Unity\C#\4唐老狮-C#进阶\1简单数据结构类\02Stack\obj\Debug\net8.0\02Stack.csproj.CoreCompileInputs.cache
+D:\code\ownlearn\Unity\C#\4唐老狮-C#进阶\1简单数据结构类\02Stack\obj\Debug\net8.0\02Stack.dll
+D:\code\ownlearn\Unity\C#\4唐老狮-C#进阶\1简单数据结构类\02Stack\obj\Debug\net8.0\refint\02Stack.dll
+D:\code\ownlearn\Unity\C#\4唐老狮-C#进阶\1简单数据结构类\02Stack\obj\Debug\net8.0\02Stack.pdb
+D:\code\ownlearn\Unity\C#\4唐老狮-C#进阶\1简单数据结构类\02Stack\obj\Debug\net8.0\02Stack.genruntimeconfig.cache
+D:\code\ownlearn\Unity\C#\4唐老狮-C#进阶\1简单数据结构类\02Stack\obj\Debug\net8.0\ref\02Stack.dll

@@ -1,0 +1,15 @@
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\3函数\04params\bin\Debug\net5.0\04params.exe
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\3函数\04params\bin\Debug\net5.0\04params.deps.json
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\3函数\04params\bin\Debug\net5.0\04params.runtimeconfig.json
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\3函数\04params\bin\Debug\net5.0\04params.runtimeconfig.dev.json
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\3函数\04params\bin\Debug\net5.0\04params.dll
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\3函数\04params\bin\Debug\net5.0\04params.pdb
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\3函数\04params\obj\Debug\net5.0\04params.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\3函数\04params\obj\Debug\net5.0\04params.AssemblyInfoInputs.cache
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\3函数\04params\obj\Debug\net5.0\04params.AssemblyInfo.cs
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\3函数\04params\obj\Debug\net5.0\04params.csproj.CoreCompileInputs.cache
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\3函数\04params\obj\Debug\net5.0\04params.dll
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\3函数\04params\obj\Debug\net5.0\refint\04params.dll
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\3函数\04params\obj\Debug\net5.0\04params.pdb
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\3函数\04params\obj\Debug\net5.0\04params.genruntimeconfig.cache
+D:\code\ownlearn\Unity\C#\2唐老狮-C#基础\3函数\04params\obj\Debug\net5.0\ref\04params.dll

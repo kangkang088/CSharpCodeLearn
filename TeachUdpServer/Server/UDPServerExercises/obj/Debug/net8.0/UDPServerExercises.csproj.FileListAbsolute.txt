@@ -1,0 +1,14 @@
+D:\code\ownlearn\Unity\C#\TeachUdpServer\Server\UDPServerExercises\bin\Debug\net8.0\UDPServerExercises.exe
+D:\code\ownlearn\Unity\C#\TeachUdpServer\Server\UDPServerExercises\bin\Debug\net8.0\UDPServerExercises.deps.json
+D:\code\ownlearn\Unity\C#\TeachUdpServer\Server\UDPServerExercises\bin\Debug\net8.0\UDPServerExercises.runtimeconfig.json
+D:\code\ownlearn\Unity\C#\TeachUdpServer\Server\UDPServerExercises\bin\Debug\net8.0\UDPServerExercises.dll
+D:\code\ownlearn\Unity\C#\TeachUdpServer\Server\UDPServerExercises\bin\Debug\net8.0\UDPServerExercises.pdb
+D:\code\ownlearn\Unity\C#\TeachUdpServer\Server\UDPServerExercises\obj\Debug\net8.0\UDPServerExercises.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\ownlearn\Unity\C#\TeachUdpServer\Server\UDPServerExercises\obj\Debug\net8.0\UDPServerExercises.AssemblyInfoInputs.cache
+D:\code\ownlearn\Unity\C#\TeachUdpServer\Server\UDPServerExercises\obj\Debug\net8.0\UDPServerExercises.AssemblyInfo.cs
+D:\code\ownlearn\Unity\C#\TeachUdpServer\Server\UDPServerExercises\obj\Debug\net8.0\UDPServerExercises.csproj.CoreCompileInputs.cache
+D:\code\ownlearn\Unity\C#\TeachUdpServer\Server\UDPServerExercises\obj\Debug\net8.0\UDPServerExercises.dll
+D:\code\ownlearn\Unity\C#\TeachUdpServer\Server\UDPServerExercises\obj\Debug\net8.0\refint\UDPServerExercises.dll
+D:\code\ownlearn\Unity\C#\TeachUdpServer\Server\UDPServerExercises\obj\Debug\net8.0\UDPServerExercises.pdb
+D:\code\ownlearn\Unity\C#\TeachUdpServer\Server\UDPServerExercises\obj\Debug\net8.0\UDPServerExercises.genruntimeconfig.cache
+D:\code\ownlearn\Unity\C#\TeachUdpServer\Server\UDPServerExercises\obj\Debug\net8.0\ref\UDPServerExercises.dll

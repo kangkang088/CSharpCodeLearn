@@ -1,0 +1,14 @@
+D:\code\ownlearn\Unity\C#\TeachTcpServer\Server\ServerExercises\bin\Debug\net8.0\ServerExercises.exe
+D:\code\ownlearn\Unity\C#\TeachTcpServer\Server\ServerExercises\bin\Debug\net8.0\ServerExercises.deps.json
+D:\code\ownlearn\Unity\C#\TeachTcpServer\Server\ServerExercises\bin\Debug\net8.0\ServerExercises.runtimeconfig.json
+D:\code\ownlearn\Unity\C#\TeachTcpServer\Server\ServerExercises\bin\Debug\net8.0\ServerExercises.dll
+D:\code\ownlearn\Unity\C#\TeachTcpServer\Server\ServerExercises\bin\Debug\net8.0\ServerExercises.pdb
+D:\code\ownlearn\Unity\C#\TeachTcpServer\Server\ServerExercises\obj\Debug\net8.0\ServerExercises.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\ownlearn\Unity\C#\TeachTcpServer\Server\ServerExercises\obj\Debug\net8.0\ServerExercises.AssemblyInfoInputs.cache
+D:\code\ownlearn\Unity\C#\TeachTcpServer\Server\ServerExercises\obj\Debug\net8.0\ServerExercises.AssemblyInfo.cs
+D:\code\ownlearn\Unity\C#\TeachTcpServer\Server\ServerExercises\obj\Debug\net8.0\ServerExercises.csproj.CoreCompileInputs.cache
+D:\code\ownlearn\Unity\C#\TeachTcpServer\Server\ServerExercises\obj\Debug\net8.0\ServerExercises.dll
+D:\code\ownlearn\Unity\C#\TeachTcpServer\Server\ServerExercises\obj\Debug\net8.0\refint\ServerExercises.dll
+D:\code\ownlearn\Unity\C#\TeachTcpServer\Server\ServerExercises\obj\Debug\net8.0\ServerExercises.pdb
+D:\code\ownlearn\Unity\C#\TeachTcpServer\Server\ServerExercises\obj\Debug\net8.0\ServerExercises.genruntimeconfig.cache
+D:\code\ownlearn\Unity\C#\TeachTcpServer\Server\ServerExercises\obj\Debug\net8.0\ref\ServerExercises.dll

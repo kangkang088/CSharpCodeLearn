@@ -1,0 +1,14 @@
+D:\code\ownlearn\Unity\C#\TeachTcpServer\Server\TcpServerAsyncExercise\bin\Debug\net8.0\TcpServerAsyncExercise.exe
+D:\code\ownlearn\Unity\C#\TeachTcpServer\Server\TcpServerAsyncExercise\bin\Debug\net8.0\TcpServerAsyncExercise.deps.json
+D:\code\ownlearn\Unity\C#\TeachTcpServer\Server\TcpServerAsyncExercise\bin\Debug\net8.0\TcpServerAsyncExercise.runtimeconfig.json
+D:\code\ownlearn\Unity\C#\TeachTcpServer\Server\TcpServerAsyncExercise\bin\Debug\net8.0\TcpServerAsyncExercise.dll
+D:\code\ownlearn\Unity\C#\TeachTcpServer\Server\TcpServerAsyncExercise\bin\Debug\net8.0\TcpServerAsyncExercise.pdb
+D:\code\ownlearn\Unity\C#\TeachTcpServer\Server\TcpServerAsyncExercise\obj\Debug\net8.0\TcpServerAsyncExercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\ownlearn\Unity\C#\TeachTcpServer\Server\TcpServerAsyncExercise\obj\Debug\net8.0\TcpServerAsyncExercise.AssemblyInfoInputs.cache
+D:\code\ownlearn\Unity\C#\TeachTcpServer\Server\TcpServerAsyncExercise\obj\Debug\net8.0\TcpServerAsyncExercise.AssemblyInfo.cs
+D:\code\ownlearn\Unity\C#\TeachTcpServer\Server\TcpServerAsyncExercise\obj\Debug\net8.0\TcpServerAsyncExercise.csproj.CoreCompileInputs.cache
+D:\code\ownlearn\Unity\C#\TeachTcpServer\Server\TcpServerAsyncExercise\obj\Debug\net8.0\TcpServerAsyncExercise.dll
+D:\code\ownlearn\Unity\C#\TeachTcpServer\Server\TcpServerAsyncExercise\obj\Debug\net8.0\refint\TcpServerAsyncExercise.dll
+D:\code\ownlearn\Unity\C#\TeachTcpServer\Server\TcpServerAsyncExercise\obj\Debug\net8.0\TcpServerAsyncExercise.pdb
+D:\code\ownlearn\Unity\C#\TeachTcpServer\Server\TcpServerAsyncExercise\obj\Debug\net8.0\TcpServerAsyncExercise.genruntimeconfig.cache
+D:\code\ownlearn\Unity\C#\TeachTcpServer\Server\TcpServerAsyncExercise\obj\Debug\net8.0\ref\TcpServerAsyncExercise.dll

@@ -1,0 +1,15 @@
+D:\code\ownlearn\Unity\C#\3唐老狮-C#核心\12String类\01常用方法\bin\Debug\net5.0\01常用方法.exe
+D:\code\ownlearn\Unity\C#\3唐老狮-C#核心\12String类\01常用方法\bin\Debug\net5.0\01常用方法.deps.json
+D:\code\ownlearn\Unity\C#\3唐老狮-C#核心\12String类\01常用方法\bin\Debug\net5.0\01常用方法.runtimeconfig.json
+D:\code\ownlearn\Unity\C#\3唐老狮-C#核心\12String类\01常用方法\bin\Debug\net5.0\01常用方法.runtimeconfig.dev.json
+D:\code\ownlearn\Unity\C#\3唐老狮-C#核心\12String类\01常用方法\bin\Debug\net5.0\01常用方法.dll
+D:\code\ownlearn\Unity\C#\3唐老狮-C#核心\12String类\01常用方法\bin\Debug\net5.0\01常用方法.pdb
+D:\code\ownlearn\Unity\C#\3唐老狮-C#核心\12String类\01常用方法\obj\Debug\net5.0\01常用方法.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\ownlearn\Unity\C#\3唐老狮-C#核心\12String类\01常用方法\obj\Debug\net5.0\01常用方法.AssemblyInfoInputs.cache
+D:\code\ownlearn\Unity\C#\3唐老狮-C#核心\12String类\01常用方法\obj\Debug\net5.0\01常用方法.AssemblyInfo.cs
+D:\code\ownlearn\Unity\C#\3唐老狮-C#核心\12String类\01常用方法\obj\Debug\net5.0\01常用方法.csproj.CoreCompileInputs.cache
+D:\code\ownlearn\Unity\C#\3唐老狮-C#核心\12String类\01常用方法\obj\Debug\net5.0\01常用方法.dll
+D:\code\ownlearn\Unity\C#\3唐老狮-C#核心\12String类\01常用方法\obj\Debug\net5.0\refint\01常用方法.dll
+D:\code\ownlearn\Unity\C#\3唐老狮-C#核心\12String类\01常用方法\obj\Debug\net5.0\01常用方法.pdb
+D:\code\ownlearn\Unity\C#\3唐老狮-C#核心\12String类\01常用方法\obj\Debug\net5.0\01常用方法.genruntimeconfig.cache
+D:\code\ownlearn\Unity\C#\3唐老狮-C#核心\12String类\01常用方法\obj\Debug\net5.0\ref\01常用方法.dll

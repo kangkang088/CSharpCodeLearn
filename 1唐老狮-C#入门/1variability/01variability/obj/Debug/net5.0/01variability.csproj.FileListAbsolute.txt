@@ -1,0 +1,16 @@
+D:\code\ownlearn\Unity\C#\唐老狮-C#入门\1variability\01variability\bin\Debug\net5.0\01variability.exe
+D:\code\ownlearn\Unity\C#\唐老狮-C#入门\1variability\01variability\bin\Debug\net5.0\01variability.deps.json
+D:\code\ownlearn\Unity\C#\唐老狮-C#入门\1variability\01variability\bin\Debug\net5.0\01variability.runtimeconfig.json
+D:\code\ownlearn\Unity\C#\唐老狮-C#入门\1variability\01variability\bin\Debug\net5.0\01variability.runtimeconfig.dev.json
+D:\code\ownlearn\Unity\C#\唐老狮-C#入门\1variability\01variability\bin\Debug\net5.0\01variability.dll
+D:\code\ownlearn\Unity\C#\唐老狮-C#入门\1variability\01variability\bin\Debug\net5.0\ref\01variability.dll
+D:\code\ownlearn\Unity\C#\唐老狮-C#入门\1variability\01variability\bin\Debug\net5.0\01variability.pdb
+D:\code\ownlearn\Unity\C#\唐老狮-C#入门\1variability\01variability\obj\Debug\net5.0\01variability.csproj.AssemblyReference.cache
+D:\code\ownlearn\Unity\C#\唐老狮-C#入门\1variability\01variability\obj\Debug\net5.0\01variability.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\ownlearn\Unity\C#\唐老狮-C#入门\1variability\01variability\obj\Debug\net5.0\01variability.AssemblyInfoInputs.cache
+D:\code\ownlearn\Unity\C#\唐老狮-C#入门\1variability\01variability\obj\Debug\net5.0\01variability.AssemblyInfo.cs
+D:\code\ownlearn\Unity\C#\唐老狮-C#入门\1variability\01variability\obj\Debug\net5.0\01variability.csproj.CoreCompileInputs.cache
+D:\code\ownlearn\Unity\C#\唐老狮-C#入门\1variability\01variability\obj\Debug\net5.0\01variability.dll
+D:\code\ownlearn\Unity\C#\唐老狮-C#入门\1variability\01variability\obj\Debug\net5.0\ref\01variability.dll
+D:\code\ownlearn\Unity\C#\唐老狮-C#入门\1variability\01variability\obj\Debug\net5.0\01variability.pdb
+D:\code\ownlearn\Unity\C#\唐老狮-C#入门\1variability\01variability\obj\Debug\net5.0\01variability.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "03抽象类和抽象方法练习题/1.0.0": {
+        "runtime": {
+          "03抽象类和抽象方法练习题.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "03抽象类和抽象方法练习题/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+D:\code\ownlearn\Unity\C#\C#初级课程之面向对象\1字符串常用方法\01ToUpper\bin\Debug\net8.0\01ToUpper.exe
+D:\code\ownlearn\Unity\C#\C#初级课程之面向对象\1字符串常用方法\01ToUpper\bin\Debug\net8.0\01ToUpper.deps.json
+D:\code\ownlearn\Unity\C#\C#初级课程之面向对象\1字符串常用方法\01ToUpper\bin\Debug\net8.0\01ToUpper.runtimeconfig.json
+D:\code\ownlearn\Unity\C#\C#初级课程之面向对象\1字符串常用方法\01ToUpper\bin\Debug\net8.0\01ToUpper.dll
+D:\code\ownlearn\Unity\C#\C#初级课程之面向对象\1字符串常用方法\01ToUpper\bin\Debug\net8.0\01ToUpper.pdb
+D:\code\ownlearn\Unity\C#\C#初级课程之面向对象\1字符串常用方法\01ToUpper\obj\Debug\net8.0\01ToUpper.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\ownlearn\Unity\C#\C#初级课程之面向对象\1字符串常用方法\01ToUpper\obj\Debug\net8.0\01ToUpper.AssemblyInfoInputs.cache
+D:\code\ownlearn\Unity\C#\C#初级课程之面向对象\1字符串常用方法\01ToUpper\obj\Debug\net8.0\01ToUpper.AssemblyInfo.cs
+D:\code\ownlearn\Unity\C#\C#初级课程之面向对象\1字符串常用方法\01ToUpper\obj\Debug\net8.0\01ToUpper.csproj.CoreCompileInputs.cache
+D:\code\ownlearn\Unity\C#\C#初级课程之面向对象\1字符串常用方法\01ToUpper\obj\Debug\net8.0\01ToUpper.dll
+D:\code\ownlearn\Unity\C#\C#初级课程之面向对象\1字符串常用方法\01ToUpper\obj\Debug\net8.0\refint\01ToUpper.dll
+D:\code\ownlearn\Unity\C#\C#初级课程之面向对象\1字符串常用方法\01ToUpper\obj\Debug\net8.0\01ToUpper.pdb
+D:\code\ownlearn\Unity\C#\C#初级课程之面向对象\1字符串常用方法\01ToUpper\obj\Debug\net8.0\01ToUpper.genruntimeconfig.cache
+D:\code\ownlearn\Unity\C#\C#初级课程之面向对象\1字符串常用方法\01ToUpper\obj\Debug\net8.0\ref\01ToUpper.dll
