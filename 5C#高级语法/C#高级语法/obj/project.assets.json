@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\code\\ownlearn\\Unity\\C#\\4唐老狮-C#进阶\\14排序算法\\02插入排序\\02插入排序.csproj",
-      "projectName": "02插入排序",
-      "projectPath": "D:\\code\\ownlearn\\Unity\\C#\\4唐老狮-C#进阶\\14排序算法\\02插入排序\\02插入排序.csproj",
+      "projectUniqueName": "D:\\code\\ownlearn\\Unity\\C#\\5C#高级语法\\C#高级语法\\01正则表达式.csproj",
+      "projectName": "01正则表达式",
+      "projectPath": "D:\\code\\ownlearn\\Unity\\C#\\5C#高级语法\\C#高级语法\\01正则表达式.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\code\\ownlearn\\Unity\\C#\\4唐老狮-C#进阶\\14排序算法\\02插入排序\\obj\\",
+      "outputPath": "D:\\code\\ownlearn\\Unity\\C#\\5C#高级语法\\C#高级语法\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

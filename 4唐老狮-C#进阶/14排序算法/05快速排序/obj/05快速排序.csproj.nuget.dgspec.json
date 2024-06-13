@@ -10,14 +10,14 @@
         "projectUniqueName": "D:\\code\\ownlearn\\Unity\\C#\\4唐老狮-C#进阶\\14排序算法\\05快速排序\\05快速排序.csproj",
         "projectName": "05快速排序",
         "projectPath": "D:\\code\\ownlearn\\Unity\\C#\\4唐老狮-C#进阶\\14排序算法\\05快速排序\\05快速排序.csproj",
-        "packagesPath": "C:\\Users\\Unity\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
         "outputPath": "D:\\code\\ownlearn\\Unity\\C#\\4唐老狮-C#进阶\\14排序算法\\05快速排序\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Unity\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("05快速排序")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af29b4989e5b2030303fad227fba99b33910d839")]
 [assembly: System.Reflection.AssemblyProductAttribute("05快速排序")]
 [assembly: System.Reflection.AssemblyTitleAttribute("05快速排序")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
