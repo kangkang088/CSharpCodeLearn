@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("01正则表达式")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af29b4989e5b2030303fad227fba99b33910d839")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7925573d3f51d1ed9f697e08031031fd2f47be7")]
 [assembly: System.Reflection.AssemblyProductAttribute("01正则表达式")]
 [assembly: System.Reflection.AssemblyTitleAttribute("01正则表达式")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
